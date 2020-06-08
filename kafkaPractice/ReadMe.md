@@ -1,0 +1,1 @@
+The module contains spring-boot code to produce and consume from a kafka broker.
